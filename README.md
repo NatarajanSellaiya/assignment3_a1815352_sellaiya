@@ -40,7 +40,7 @@ This pipeline was designed to be executed in a GPU-accelerated environment (e.g.
     
 3. Ensure you have a valid Hugging Face API token (HF_TOKEN) saved in your environment variables/secrets to download the Mistral-7B model.
 
-4. Run the A1815352_CyberRAG.ipynb notebook sequentially.
+4. Run the assignment3_a1815352_sellaiya.ipynb notebook sequentially.
 
 
 Once these files are in your repository, you are completely, 100% finished with the entire assignment! Just zip up your files, upload them to Canvas, and celebrate a job incredibly well done
